@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UAS-CGA_Kelompok-6.sln"
+    "dotnet.defaultSolution": "Wilderness-Hunt.sln"
 }
